@@ -1,8 +1,9 @@
 import './globals.css'
 
 export const metadata = {
-  title: 'Side Hustle Hub',
-  description: 'Best side hustles and online income ideas by profession',
+  title: 'SideHustleHub',
+  description:
+    'Discover side hustles, passive income ideas and remote jobs by profession.',
 }
 
 export default function RootLayout({ children }) {
